@@ -49,7 +49,8 @@ for i in range(len(x)):
 ```
 
 ## Output:
-<img width="1289" height="931" alt="528844822-83847eb1-ebb1-418d-b377-a42824e85888" src="https://github.com/user-attachments/assets/27c91d96-07d7-41d6-9145-277e1d071ba8" />
+<img width="1347" height="789" alt="Screenshot 2026-02-27 220124" src="https://github.com/user-attachments/assets/33438f6f-b4fc-4786-b047-58836aa5c040" />
+
 
 
 
